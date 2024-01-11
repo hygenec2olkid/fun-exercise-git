@@ -1,2 +1,2 @@
 # Contributors
-- [Sommani](sommani@github.com)
+- [Wirapat-g](sommani@github.com)
